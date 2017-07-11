@@ -1,0 +1,6 @@
+[
+ {"name":"Final Jeopardy",
+   "questions":[
+     {"question":"If someone comes to the help desk and cannot get an application downloaded to their computer using LANDesk, this team gets the ticket for further troubleshooting.","value":"Final Jeopardy","answers":[{"text":"Correct","correct":true},{"text":"Incorrect","correct":false}]},
+   ]}
+]
