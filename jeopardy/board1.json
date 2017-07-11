@@ -1,0 +1,36 @@
+ [
+	{"name":"iSupport, uSupport, weAllSupport",
+		"questions":[
+			{"question":"You can store any type of file online and access it easily from your computer, phone, or tablet.","value":"5","answers":[]},
+			{"question":"This team manages all wireless and wired connections on campus.","value":"10","answers":[]},
+			{"question":"Pop up blocker, cache, and cookies can prevent this service from functioning properly.","value":"15","answers":[]},
+			{"question":"This can be configured on any device by using Exchange.","value":"20","answers":[]},
+			{"question":"I took over blackboard and I'm known for its user-friendly online environment and ability to easily connect instructors and students both in and out of the classroom.","value":"25","answers":[]}
+		]},
+	{"name":"#AllTheServices",
+		"questions":[
+			{"question":"This operating environment created by Microsoft for computers provides an interface, known as a Graphical User Interface (GUI).","value":"5","answers":[]},
+			{"question":"User's account keeps locking, you can remove certain keychains in this OS to possibly resolve the issue.","value":"10","answers":[]},
+			{"question":"Network manager is required in this operating system to configure PerunaNet.","value":"15","answers":[]},
+			{"question":"This service allows faculty, staff, students, and guests to print to various public printers from public workstations or personal devices.","value":"20","answers":[]},
+			{"question":"This is the client that allows us to chat and connect to customer's computers remotely to solve issues.","value":"25","answers":[]}
+		]},
+	{"name":"Ermahgerd, Network!",
+		"questions":[
+			{"question":"This is the secured wireless network available only to SMU faculty, staff, and students with an active SMU ID and password.","value":"5","answers":[]},
+			{"question":"Customers can register to this network on campus with an email address and receive a temporary password for internet use.","value":"10","answers":[]},
+			{"question":"These devices must be registered on the SMU_Guest network by MAC address.","value":"15","answers":[]},
+			{"question":"This network can be accessed at another university by authenticating using SMU credentials.","value":"20","answers":[]},
+			{"question":"I can connect my TV with a coaxial cable and channel search for this residence hall feature.","value":"25","answers":[]}
+		]},
+	{"name":"HELP! I need somebody!",
+		"questions":[
+		{"question":"When all internal resources fail, this can be your best friend.","value":"5","answers":[]},
+		{"question":"This resource will walk you through troubleshooting a plethora of issues and also provide some how-to's.","value":"10","answers":[]},
+		{"question":"These service pages are available for internal and external users, by simply using the search feature or going through the site pages.","value":"15","answers":[]},
+		{"question":"This manual is for the students who work in IT. This is a guide to help you through your day to day activities.","value":"20","answers":[]},
+		{"question":"Everyone at SMU has access to this handy resource for searching different articles that will help with every service we provide.","value":"25","answers":[]
+		}]
+	}
+]
+        
