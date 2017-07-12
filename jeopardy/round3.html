@@ -12,7 +12,7 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	</head>
 	<body>
-		<div class="smu-logo center"> <img src="http://www.smu.edu/~/media/Site/DevelopmentExternalAffairs/PublicAffairs/Logos/smu/SMUlogowWordmarkRBrgb" style="display:block; margin: 0 auto;width:250px;"/> </div>
+    <div class="smu-logo center" style="padding-top:50px"> <img src="http://www.smu.edu/~/media/Site/DevelopmentExternalAffairs/PublicAffairs/Logos/smu/SMUlogowWordmarkRBrgb" style="display:block; margin: 0 auto;width:250px;"/> </div>
 		</br>
 		<div class="container">
 		<div class="panel panel-default">
@@ -94,7 +94,7 @@
 		console.log(columns);
 		$.each(map, function(i,category){
 			//load category name
-			var header_class = 'text-center col-md-' + column_width;
+			var header_class = 'text-center col-md-10';
 			if (i === 0 && columns % 2 != 0){ //if the number of columns is odd, offset the first one by one to center them
 
 				header_class += ' col-md-offset-1';
@@ -103,7 +103,7 @@
 				'<div class="'+header_class+'"><h4>'+category.name+'</h4></div>'
 			);
 			//add column
-			var div_class = 'category col-md-' + column_width;
+			var div_class = 'category col-md-10';
 			if (i === 0 && columns % 2 != 0){
 				div_class += ' col-md-offset-1';
 			}
