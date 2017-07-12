@@ -110,7 +110,7 @@
 			var column = $('#cat-'+i);
 			$.each(category.questions, function(n,question){
 				//add questions
-				column.append('<div class="well question unanswered" data-question="'+n+'">'+question.value+'</div>')
+				column.append('<div class="well question unanswered" style="background-color: #0039A6; color: white" data-question="'+n+'">'+question.value+'</div>')
 			});
 		});
 		$('.panel-heading').append('<div class="clearfix"></div>')
